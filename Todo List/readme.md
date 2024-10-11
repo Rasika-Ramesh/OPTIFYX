@@ -1,6 +1,6 @@
 # TODO LIST App
 
-A simple and interactive web-based to-do list application that helps users manage their daily tasks efficiently. Users can add, view, and delete tasks with a minimal and user-friendly interface. 
+A simple and interactive web-based to-do list application that helps users manage their daily tasks efficiently. Users can add, view, mark as done and delete tasks with a minimal and user-friendly interface. 
 
 ---
 ## Features
@@ -9,7 +9,6 @@ A simple and interactive web-based to-do list application that helps users manag
 - Easily remove completed or unwanted tasks from the list.
 - Responsive design, accessible across devices (mobile, tablet, desktop).
 - Simple and easy-to-use interface.
-- 
 
 ---
 ## Technologies Used
