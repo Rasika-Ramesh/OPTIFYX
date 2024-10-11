@@ -35,4 +35,10 @@ A simple and interactive web-based to-do list application that helps users manag
 - You can remove tasks once they are completed or unwanted, by clicking trash in icon.
 
 ---
+### Screenshots
+![Initial](./images/screenshots/Screenshot1.png)
+
+![After adding task and one task marked as done](./images/screenshots/Screenshot3.png)
+
+---
 Thank you for checking out this project!
