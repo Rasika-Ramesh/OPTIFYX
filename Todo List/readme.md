@@ -20,7 +20,7 @@ A simple and interactive web-based to-do list application that helps users manag
 ---
 ### Installation Steps
 1. Clone the repository:
-> git clone https://github.com/yourusername/Todo-List.git
+> git clone https://github.com/Rasika-Ramesh/OPTIFYX/Todo-List.git
 
 2. Navigate to the project directory:
 > cd Todo-List
