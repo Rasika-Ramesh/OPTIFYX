@@ -2,6 +2,8 @@
 
 A simple and interactive web-based to-do list application that helps users manage their daily tasks efficiently. Users can add, view, mark as done and delete tasks with a minimal and user-friendly interface. 
 
+[Watch the Screen recording](https://bit.ly/Todolistapp-workflow)
+
 ---
 ## Features
 - Add tasks.
@@ -36,11 +38,11 @@ A simple and interactive web-based to-do list application that helps users manag
 
 ---
 ### Screenshots
+[Watch the Screen recording](https://bit.ly/Todolistapp-workflow)
+
 ![Initial](./images/screenshots/Screenshot1.png)
 
 ![After adding task and one task marked as done](./images/screenshots/Screenshot3.png)
-
-[Watch the video](https://bit.ly/Todolistapp-workflow)
 
 ---
 Thank you for checking out this project!
