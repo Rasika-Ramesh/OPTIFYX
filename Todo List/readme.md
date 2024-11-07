@@ -40,5 +40,7 @@ A simple and interactive web-based to-do list application that helps users manag
 
 ![After adding task and one task marked as done](./images/screenshots/Screenshot3.png)
 
+[Watch the video](https://bit.ly/Todolistapp-workflow)
+
 ---
 Thank you for checking out this project!
